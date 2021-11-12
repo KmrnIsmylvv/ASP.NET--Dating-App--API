@@ -55,3 +55,7 @@ C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\runtim
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
