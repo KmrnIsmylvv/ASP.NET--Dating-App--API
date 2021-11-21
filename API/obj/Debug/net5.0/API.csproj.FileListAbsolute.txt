@@ -59,3 +59,6 @@ C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Micros
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
