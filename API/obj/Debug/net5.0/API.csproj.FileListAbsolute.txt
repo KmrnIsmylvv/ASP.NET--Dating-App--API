@@ -62,3 +62,4 @@ C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\System
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
