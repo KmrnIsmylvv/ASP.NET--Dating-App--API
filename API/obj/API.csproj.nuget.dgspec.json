@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj": {}
+    "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj": {
+    "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,7 +25,6 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +43,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[5.0.11, )"
