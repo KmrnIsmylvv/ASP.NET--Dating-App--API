@@ -51,7 +51,7 @@ namespace API.Controllers
 
             _userRepository.Update(user);
 
-            if(await _userRepository.SaveAllAsync()) return NoConten t();
+            if(await _userRepository.SaveAllAsync()) return NoContent();
 
             return BadRequest("Failed to update User");
         }
