@@ -65,3 +65,5 @@ C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Micros
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\HP\Desktop\Kamran\Programming\API\DatingApp\API\bin\Debug\net5.0\Newtonsoft.Json.dll
