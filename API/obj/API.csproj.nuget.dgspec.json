@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

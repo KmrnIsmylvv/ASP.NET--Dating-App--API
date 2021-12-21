@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hauBzUfpksk4a5oF+nGTrK6ZMC1/AYNOmQMgH+US3oYEDbX/gVIhlYZhdnEE59yUiuyGgDUZJUz/ArGhaU7gpw==",
+  "dgSpecHash": "pciWimPJ7Xre3Z+5reiy3Kdxm3L7Y6DvkxEjd81IzJ63rExUHcfW9J1oWItR+IqHnxzZ/2KvGCmKaZNdCswO/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\API\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Kamran\\Programming\\.NET Core - API\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
