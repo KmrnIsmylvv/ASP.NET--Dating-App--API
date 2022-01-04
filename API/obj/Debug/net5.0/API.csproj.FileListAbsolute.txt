@@ -136,3 +136,8 @@ C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\DatingApp\API\obj\Debug\n
 C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\DatingApp\API\obj\Debug\net5.0\API.pdb
 C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HP\Desktop\Kamran\Programming\.NET Core - API\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
