@@ -13,6 +13,7 @@ namespace API.Data
         {
         }
 
+
         public DbSet<UserLike> Likes { get; set; }
         public DbSet<Message> Messages { get; set; }
 
@@ -30,7 +31,7 @@ namespace API.Data
                 .HasMany(ur => ur.UserRoles)
                 .WithOne(u => u.Role)
                 .HasForeignKey(ur => ur.RoleId)
-                .IsRequired();    
+                .IsRequired();
 
             builder.Entity<UserLike>()
                 .HasKey(k => new { k.SourceUserId, k.LikedUserId });
