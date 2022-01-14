@@ -13,7 +13,6 @@ namespace API.Data
         {
         }
 
-
         public DbSet<UserLike> Likes { get; set; }
         public DbSet<Message> Messages { get; set; }
 
